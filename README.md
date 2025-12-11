@@ -1,4 +1,11 @@
-Code Plagiarism Checker
+<h1>Code Plagiarism Checker</h1>
+
+<p><h2><strong>Author -</strong> Sakib Ahmmed Sahed</h2></p>
+
+<p><h3>
+“The main goal of my project is to detect when students copy code from sources like ChatGPT
+and only make small edits, such as removing comments, or changing spacing.”
+</h3></p> 
 
 This project is a C-based Code Plagiarism Detection System with a built-in user authentication module.
 It allows users to register, log in, and then use the system to compare two C program files for similarity.
